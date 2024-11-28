@@ -65,7 +65,7 @@ header {
   color: black;
   text-align: left;
   padding: 300px 115px;
-  background-image: url('images/bgimg2.png');
+  background-image: url('C:\\Program Files\\Notepad++\\bgimg2.png');
   background-size: cover; 
   background-position: center;
 }

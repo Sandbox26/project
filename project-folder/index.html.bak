@@ -20,7 +20,7 @@
   </nav>
 
   <!--header-->
-  <header class="fade-in fade-in-visible">
+  <header class="fade-in fade-in-visible" img src="images/bgimg2.png" alt="Logo" class="nav-logo">
     <h1><strong>suKAtLUSUGAN</strong></h1>
     <p>Your best buddy in healthcare.</p>
     <a href="#download" class="download">Download the App</a>
@@ -74,7 +74,7 @@
         <div class="download-option">
           <h3>suKAtLUSUGAN App</h3>
           <p>Your best buddy in healthcare.</p>
-          <a href="app/FoodExerciseMonitor.apk" class="download-button" download>Download APK</a>
+          <a href="app/suKAtLUSUGANHealthApp.apk" class="download-button" download>Download APK</a>
         </div>
       </div>
       <div class="image-container">
