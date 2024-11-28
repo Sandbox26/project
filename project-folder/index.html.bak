@@ -20,7 +20,7 @@
   </nav>
 
   <!--header-->
-  <header class="fade-in fade-in-visible" img src="images/bgimg2.png" alt="Logo" class="nav-logo">
+  <header class="fade-in fade-in-visible">
     <h1><strong>suKAtLUSUGAN</strong></h1>
     <p>Your best buddy in healthcare.</p>
     <a href="#download" class="download">Download the App</a>
